@@ -20,5 +20,5 @@ Legend:
 | ⚫ | in creation or has been submitted |
 | 🔴 | was not accepted |
 | 🟡 | was accepted |
-| 🟢 | accepted as complete |
+| 🟢 | accepted as completed |
 
